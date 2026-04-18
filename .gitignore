@@ -1,0 +1,10 @@
+Code/.env
+Code/chroma_db/
+Code/__pycache__/
+Code/*.pyc
+Code/.ipynb_checkpoints/
+AFT_Innovation_TakeHome_Assignment.docx
+.DS_Store
+Code/.DS_Store
+Code/go_venv.txt
+Code/test.ipynb
